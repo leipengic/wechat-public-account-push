@@ -106,3 +106,9 @@ dist
 .tern-port
 
 .idea
+
+# 本地敏感配置（真实密钥/个人信息），切勿提交
+config/local.cjs
+
+# macOS
+.DS_Store
